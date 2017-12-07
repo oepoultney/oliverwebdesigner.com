@@ -1,0 +1,68 @@
+/*****font-family: 'Nothing You Could Do', cursive;
+font-family: 'Playfair Display', serif; *****/
+
+/***** BASE STYLES *****/
+div  {
+font-family: 'Nothing You Could Do', cursive;
+}
+
+/***** GRID INFO *****/
+.full-width {
+width: 1200px;
+margin: 0 auto;
+}
+
+.half-width {
+width: 600px;
+float: left;
+}
+
+.third-width  {
+width: 400px;
+float: left;
+}
+
+/***** HEADER *****/
+header p {
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 25px;
+  color: #141d63;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+/***** FOOTER *****/
+footer p {
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 25px;
+  color: #141d63;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid #000000;
+  background-color: white;
+  padding: 5px 15px 5px 10px;
+  text-decoration: none;
+  width:150px;
+  margin-left: 50px;
+  float: left;
+}
+
+footer p1 {
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 25px;
+  color: #141d63;
+  text-align: center;
+  text-transform: uppercase;
+  float: left;
+  border: 1px solid #000000;
+  background-color: white;
+  padding: 5px 15px 5px 10px;
+  text-decoration: none;
+  margin-top: 25px;
+}
+
+footer img {
+  float: left;
+}
